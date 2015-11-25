@@ -4,14 +4,13 @@ Sublime Text Setup
 Settings
 ------------------------------------------------------------
 Open `Sublime Text -> Preferences -> Settings - User` and copy / paste the
-contents of `sublimetext/prefs/User Preferences.sublime-settings` into that file
-and save it.
+contents of `sublimetext/prefs/User Preferences.sublime-settings` into that file and save it.
+
+Note: you might need to re-select the Monokai font after installing plugins below (I don't think it is a default).
 
 Snippets
 ------------------------------------------------------------
-For each snippet, open `Tools -> New Snippet` and copy and paste the content
-of the snippets file, then save it with the snippets file name in the `snippets`
-folder in the directory Sublime Text defaults to.
+Copy the `snippets` directory to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`, then restart Sublime Text.
 
 Plugins and File Types
 ------------------------------------------------------------
