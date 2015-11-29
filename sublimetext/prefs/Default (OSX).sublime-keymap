@@ -1,0 +1,9 @@
+/* User Key Bindings
+ * ==========================================================================
+ * On OS X, basic text manipulations (left, right, command+left, etc) make use of the system key bindings,
+ * and don't need to be repeated here. Anything listed here will take precedence, however.
+ */
+[
+  { "keys": ["super+shift+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+  { "keys": ["super+alt+f"], "command": "show_panel", "args":  {"panel": "find_in_files"} }
+]

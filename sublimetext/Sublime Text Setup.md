@@ -8,6 +8,12 @@ contents of `sublimetext/prefs/User Preferences.sublime-settings` into that file
 
 Note: you might need to re-select the Monokai font after installing plugins below (I don't think it is a default).
 
+Key Bindings
+------------------------------------------------------------
+Open `Sublime Text -> Preferences -> Key Bindings - User` and copy / paste the
+contents of `sublimetext/prefs/Default (OSX).sublime-keymap` into that file
+and save it.
+
 Snippets
 ------------------------------------------------------------
 Copy the `snippets` directory to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`, then restart Sublime Text.
