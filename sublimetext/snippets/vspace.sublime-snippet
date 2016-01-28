@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+${1:moar content here}
+]]></content>
+  <tabTrigger>vspace</tabTrigger>
+</snippet>

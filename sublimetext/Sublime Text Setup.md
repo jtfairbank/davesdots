@@ -3,9 +3,8 @@ Sublime Text Setup
 
 Settings
 ------------------------------------------------------------
-Open `Sublime Text -> Preferences -> Settings - User` and copy / paste the
-contents of `sublimetext/prefs/User Preferences.sublime-settings` into that file
-and save it.
+Open `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/` and copy / paste the
+contents of `sublimetext/prefs/*` into that folder.
 
 Snippets
 ------------------------------------------------------------

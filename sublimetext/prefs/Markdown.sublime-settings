@@ -1,0 +1,10 @@
+{
+  "word_wrap": true,
+  "wrap_width": 120,
+  "rulers": [
+    80,
+    120
+  ],
+  "line_numbers": true,
+  "draw_centered": false
+}
