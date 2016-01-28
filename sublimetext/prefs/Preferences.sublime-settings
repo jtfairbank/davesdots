@@ -15,6 +15,10 @@
 	],
   "line_numbers": true,
 	"open_files_in_new_window": true,
+  "rulers": [
+    80,
+    120
+  ],
 	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
