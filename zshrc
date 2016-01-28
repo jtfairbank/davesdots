@@ -125,6 +125,11 @@ export PATH="/usr/local/share/npm/bin:$PATH"
 #  - Version 5.4 from Brew
 export PATH="$(brew --prefix josegonzalez/php/php54)/bin:$PATH"
 
+# Postgres
+# - Install Postgres via [Postgres.app](http://postgresapp.com/)
+# - [command line docs](http://postgresapp.com/documentation/cli-tools.html)
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin
+
 # Python-Djagno Superuser Creation's locale
 #  - A work-around for Django not finding the user's locale.  According tot the
 #    bug report, this issue was fixed in Django 1.5.
