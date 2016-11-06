@@ -68,6 +68,9 @@ if [ -d "${HOME}/.zsh" ] ; then
 	done
 fi
 
+# Enable forward search when using ctrl-r to search the command line history.
+stty -ixon
+
 # Customize Prompt
 # -----------------------------------------------------------
 # Git Branch
