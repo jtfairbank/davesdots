@@ -124,10 +124,6 @@ export PATH="/usr/local/sbin:$PATH"
 export NODE_PATH="/usr/local/lib/node"
 export PATH="/usr/local/share/npm/bin:$PATH"
 
-# PHP
-#  - Version 5.4 from Brew
-export PATH="$(brew --prefix josegonzalez/php/php54)/bin:$PATH"
-
 # Postgres
 # - Install Postgres via [Postgres.app](http://postgresapp.com/)
 # - [command line docs](http://postgresapp.com/documentation/cli-tools.html)
